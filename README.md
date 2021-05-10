@@ -1,6 +1,6 @@
 # EPIC FORK
 
-A curated list of templates for to quickly start your new project, proof of concept or playground.
+A curated list of templates to quickly start your new project, proof of concept or playground.
 
 ## Templates
 
